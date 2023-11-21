@@ -1,5 +1,7 @@
 # Control-de-Brazo-Robotico-Braccio
-Controlando el brazo robotico Braccio usando una interfaz gráfica desarrollada en tkinter
+Controlando el brazo robotico Braccio usando una interfaz gráfica desarrollada en tkinter.
+El código .ino se deberá cargar en el arduino y el .py deberá ejecutarse en una PC. El cable de alimentación del arduino deberá conectarse a la PC.
+
 Este proyecto fue realizado dentro de los ambientes del laboratorio de investigación de la facultad de ciencias, en el grupo de instrumentación a cargo del Dr. Javier Solano.
 
 Así se ve la interfaz: 
